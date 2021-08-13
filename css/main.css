@@ -174,7 +174,7 @@ Menu de Navegación*/
 /*POST
 ==========================*/
 .posts{
-  padding: 0 80px 40px;
+  padding: 0 30px 20px;
 }
 
 .posts h3{
@@ -184,9 +184,9 @@ Menu de Navegación*/
 
 .posts-blog{
   display: inline-block;
-  padding: 15px;
+  padding: 10px;
   max-width: 32%;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 .posts-blog img{
@@ -227,7 +227,7 @@ footer p{
 
 .main-blog__content img{
   display: inline-block;
-  padding: 0 50px 40px;
+  padding: 0 10px 40px;
   width: 100%;
 }
 
