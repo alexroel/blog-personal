@@ -132,12 +132,13 @@ Menu de Navegación*/
 }
 
 /* PAGINA DE BLOGS*/
-.blogs-main{
+
+.news{
   background-color: #e6e9ed;
-  padding: 10px 80px 40px;
 }
 
 .news-content{
+  padding: 10px 80px 40px;
   display: grid;
   grid-template-columns: 2fr 1fr;
   grid-template-rows: 2fr;
@@ -174,7 +175,7 @@ Menu de Navegación*/
 /*POST
 ==========================*/
 .posts{
-  padding: 0 30px 20px;
+  padding: 10px 80px 40px;
 }
 
 .posts h3{
@@ -285,7 +286,7 @@ footer p{
 /* PERFIL 
 =================================*/
 .profile{
-  padding: 70px 100px;
+  padding: 40px 80px;
   background-color: #e6e9ed;
   margin-bottom: 5px;
   display: flex; 
@@ -296,11 +297,11 @@ footer p{
   margin-right: 30px;
 }
 
-.projects-container{
+.project-container{
   padding: 0 80px 40px;
 }
 
-.projects-container h3{
+.project-container h3{
   border-bottom: 1px solid #cdd2da;
   padding: 20px 0;
   text-align: center;
